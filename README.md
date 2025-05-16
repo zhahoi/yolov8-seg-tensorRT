@@ -17,27 +17,27 @@
 
 （1）现在Visual Studio新建一个空白工程，将本仓库代码放到该工程中。
 
-![微信截图_20250516084350](C:\Users\HIT-HAYES\Desktop\微信截图_20250516084350.png)
+![微信截图_20250516084350](https://github.com/zhahoi/yolov8-seg-tensorRT/blob/main/imgs/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250516084350.png)
 
 （2）在工程中载入推理需要依赖的库。
 
-![微信截图_20250516084012](C:\Users\HIT-HAYES\Desktop\微信截图_20250516084012.png)
+![微信截图_20250516084012](https://github.com/zhahoi/yolov8-seg-tensorRT/blob/main/imgs/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250516084012.png)
 
-![微信截图_20250516084108](C:\Users\HIT-HAYES\Desktop\微信截图_20250516084211.png)
+![微信截图_20250516084108](https://github.com/zhahoi/yolov8-seg-tensorRT/blob/main/imgs/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250516084211.png)
 
-![微信截图_20250516084306](C:\Users\HIT-HAYES\Desktop\微信截图_20250516084306.png)
+![微信截图_20250516084306](https://github.com/zhahoi/yolov8-seg-tensorRT/blob/main/imgs/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250516084306.png)
 
 （3）选择开始执行，应该在工程的**Release**的目录下可以成功地生成`.exe`文件。
 
-![微信截图_20250516085457](C:\Users\HIT-HAYES\Desktop\微信截图_20250516085457.png)
+![微信截图_20250516085457](https://github.com/zhahoi/yolov8-seg-tensorRT/blob/main/imgs/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250516085457.png)
 
 （4）执行推理。
 
-![微信截图_20250516085552](C:\Users\HIT-HAYES\Desktop\微信截图_20250516085552.png)
+![微信截图_20250516085552](https://github.com/zhahoi/yolov8-seg-tensorRT/blob/main/imgs/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250516085552.png)
 
 推理结果：
 
-![微信截图_20250516085620](C:\Users\HIT-HAYES\Desktop\微信截图_20250516085620.png)
+![微信截图_20250516085620](https://github.com/zhahoi/yolov8-seg-tensorRT/blob/main/imgs/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250516085620.png)
 
 
 
